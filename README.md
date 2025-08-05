@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="public/cognio_labs_logo.png" alt="Cognio Labs Logo" width="200" style="margin-bottom: 20px;">
+
 ```
                     ╭─────────────────────────────────────╮
                     │    ⚡ COGNIO LABS ⚡                │
@@ -201,6 +203,7 @@ cognio-template/
 ├── 🔐 .env.example               # Environment variables template
 ├── 📖 README.md                  # This file
 └── 📋 CLAUDE.md                  # Development guidelines
+└── 📂 public/                  # Folder to store image and other assets for the entire app
 ```
 
 ---
