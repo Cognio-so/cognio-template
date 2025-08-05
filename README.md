@@ -4,14 +4,17 @@
 
 <img src="public/cognio_labs_logo.png" alt="Cognio Labs Logo" width="200" style="margin-bottom: 20px;">
 
-```
-                    ╭─────────────────────────────────────╮
-                    │    ⚡ COGNIO LABS ⚡                │
-                    │                                     │
-                    │    🤖 Agentic AI Template          │
-                    │    🚀 FastAPI + LangGraph + Next.js │
-                    │    🐳 Docker Ready                  │
-                    ╰─────────────────────────────────────╯
+```mermaid
+flowchart TD
+    subgraph "⚡ COGNIO LABS ⚡"
+        A["🤖 Agentic AI Template"]
+        B["🚀 FastAPI + LangGraph + Next.js"]
+        C["🐳 Docker Ready"]
+    end
+    
+    style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style B fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    style C fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
 ```
 
 **A production-ready template for building sophisticated AI agent systems**
