@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This document provides **project guidelines and best practices** for all team members contributing to agentic Python projects using FastAPI backend, LangGraph agentic architecture, and Next.js frontend. It serves as the definitive guide for Claude Code development and integrates specific requirements for LLM orchestration, prompt management, and containerized deployment.
+This document provides **project guidelines and best practices** for all team members contributing to agentic Python projects using FastAPI backend, LangGraph agentic architecture, and Next.js frontend. It serves as the definitive guide for Claude Code development and integrates specific requirements for LLM orchestration, prompt management, and containerized deployment. Based on the project requirements given in implement.md , build the project following the guidelines expressed here. 
 
 ## Project Overview
 
@@ -8,6 +8,7 @@ This document provides **project guidelines and best practices** for all team me
 - **Repository Structure:** Designed as a template for rapid prototyping and scaling of LLM-based agentic products
 - **Primary Goals:** Flexibility, maintainability, optimal LLM selection, and seamless containerized deployment
 - **Architecture:** Microservices approach with Docker Compose orchestration
+-**Actual Project Requirements and SCope:** Understnad from implement.md 
 
 ## Repository Structure (Monorepo)
 
