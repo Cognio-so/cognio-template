@@ -8,7 +8,7 @@ This document provides **project guidelines and best practices** for all team me
 - **Repository Structure:** Designed as a template for rapid prototyping and scaling of LLM-based agentic products
 - **Primary Goals:** Flexibility, maintainability, optimal LLM selection, and seamless containerized deployment
 - **Architecture:** Microservices approach with Docker Compose orchestration
--**Actual Project Requirements and SCope:** Understnad from implement.md 
+- **Actual Project Requirements and Scope:** Understnad from implement.md 
 
 ## Repository Structure (Monorepo)
 
